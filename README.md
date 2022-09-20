@@ -19,7 +19,8 @@
 - [Классы и наследование](https://github.com/r-vvch/Stepik_Python/tree/master/3_week/car_classes "Перейти к расположению")
 
 ### 4. Углубленный Python
-Дескриптор с комиссией
+- [Файл с магическими методами](https://github.com/r-vvch/Stepik_Python/tree/master/3_week/file_magic_methods "Перейти к расположению"))
+- Дескриптор с комиссией
 
 ### 5. Многопоточное и асинхронное программирование
 Клиент для отправки метрик
