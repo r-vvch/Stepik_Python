@@ -10,7 +10,7 @@
 - [Корни квадратного уравнения](https://github.com/r-vvch/Stepik_Python/blob/master/1_week/quad_eqv.py "Перейти к расположению")
 - [Сумма цифр в строке](https://github.com/r-vvch/Stepik_Python/blob/master/1_week/str_sum.py "Перейти к расположению")
 
-### 2. Стуктуры данных и функции
+### 2. Структуры данных и функции
 - [Key-values хранилище](https://github.com/r-vvch/Stepik_Python/blob/master/2_week/storage.py "Перейти к расположению")
 - [Декоратор to_json](https://github.com/r-vvch/Stepik_Python/tree/master/2_week/to_json "Перейти к расположению")
 
@@ -23,7 +23,7 @@
 - [Дескриптор с комиссией](https://github.com/r-vvch/Stepik_Python/tree/master/4_week/commission_descriptor "Перейти к расположению")
 
 ### 5. Многопоточное и асинхронное программирование
-Клиент для отправки метрик
+[Клиент для отправки метрик](https://github.com/r-vvch/Stepik_Python/tree/master/5_week "Перейти к расположению")
 
 ### 6. Финальный проект
 Сервер для приема метрик
