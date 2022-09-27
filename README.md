@@ -23,8 +23,8 @@
 - [Дескриптор с комиссией](https://github.com/r-vvch/Stepik_Python/tree/master/4_week/commission_descriptor "Перейти к расположению")
 
 ### 5. Многопоточное и асинхронное программирование
-[Клиент для отправки метрик](https://github.com/r-vvch/Stepik_Python/tree/master/5_week "Перейти к расположению")
+[Клиент для отправки метрик](https://github.com/r-vvch/Stepik_Python/blob/master/5_week/client.py "Перейти к расположению")
 
 ### 6. Финальный проект
-Сервер для приема метрик
+[Сервер для приема метрик](https://github.com/r-vvch/Stepik_Python/blob/master/6_week/server.py "Перейти к расположению")
 
